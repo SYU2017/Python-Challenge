@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-"""PyPoll Homework Solution."""
+
 
 # Incorporated the csv module
 import csv
