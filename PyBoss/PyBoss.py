@@ -1,5 +1,5 @@
 # -*- coding: UTF-8 -*-
-"""PyBoss Homework Solution."""
+
 
 # Import required packages
 import csv
