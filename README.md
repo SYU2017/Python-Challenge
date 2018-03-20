@@ -1,5 +1,5 @@
 # python-challenge
-# Unit 3 | Assignment - Py Me Up, Charlie
+# Assignment - Py Me Up, Charlie
 
 # Option 1: PyBank
    *In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will be given   two sets of revenue data (budget_data_1.csv and budget_data_2.csv). Each dataset is composed of two columns: Date and Revenue.
